@@ -1,3 +1,3 @@
-module github.com/RyanCarrier/dijkstra/v2
+module github.com/unixlab/dijkstra/v2
 
 go 1.22
